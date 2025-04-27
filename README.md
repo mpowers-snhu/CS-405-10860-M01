@@ -2,4 +2,4 @@
 
 A portfolio of all projects for CS 405 Secure Coding, at SNHU.
 
-- Michelle Powers
+Michelle Powers
